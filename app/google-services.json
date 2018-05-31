@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914116620459",
+    "firebase_url": "https://serviceindustry-f0fed.firebaseio.com",
+    "project_id": "serviceindustry-f0fed",
+    "storage_bucket": "serviceindustry-f0fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914116620459:android:a3604fea18308dfa",
+        "android_client_info": {
+          "package_name": "com.railway_services.indian.serviceindustry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914116620459-t8hdk45bgu4dag1mke0d6b2oe85gbfrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.railway_services.indian.serviceindustry",
+            "certificate_hash": "c77734dac75ba55002fd2bbe1dab847eb9e29a1a"
+          }
+        },
+        {
+          "client_id": "914116620459-h5ctpovkdb1gmqagfh6ma5e7gh7raknc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFvMAh5rcqPc-tTkzfq4dq4iKsO0Vf2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914116620459-h5ctpovkdb1gmqagfh6ma5e7gh7raknc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

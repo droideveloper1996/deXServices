@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_control_center"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="My Account"
+
+        />
+    <item
+        android:title="Wallet"
+        android:id="@+id/action_wallet"
+        />
+
+    <item
+        android:id="@+id/action_account"
+        android:title="Account"
+        />
+    <item
+        android:id="@+id/action_setting"
+        android:title="Setting"
+        />
+
+    <item
+        android:id="@+id/action_help_feedback"
+        android:title="Help &amp; Feedback"
+        />
+</menu>

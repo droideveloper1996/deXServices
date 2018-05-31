@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">deX Services</string>
+    <string name="search_hint">eg. Air Conditioner,Plumber</string>
+    <string name="title_activity_second_maps">Map</string>
+
+    <string name="True1" translatable="false">true</string>
+    <string name="False1" translatable="false">false</string>
+    <string name="True" translatable="false">true</string>
+    <string name="False" translatable="false">false</string>
+    <string name="title_activity_track_order">Map</string>
+</resources>
